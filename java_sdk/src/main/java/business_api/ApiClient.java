@@ -62,7 +62,7 @@ import business_api.auth.OAuth;
 
 @javax.annotation.Generated(value = "com.tiktok.codegen.JavatiktokcodegenGenerator", date = "2023-06-28T14:49:22.099759+05:30[Asia/Kolkata]")public class ApiClient {
   protected Map<String, String> defaultHeaderMap = new HashMap<String, String>();
-  protected String basePath = "https://business-api.tiktok.com";
+  protected String basePath = "https://sandbox-ads.tiktok.com";
   protected boolean debugging = false;
   protected int connectionTimeout = 0;
   private int readTimeout = 0;
